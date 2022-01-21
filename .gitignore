@@ -9,3 +9,4 @@ venv/
 docs/_build
 docs/node_modules
 docs/venv
+/Extension/.vscode/*
